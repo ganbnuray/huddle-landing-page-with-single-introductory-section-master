@@ -97,11 +97,12 @@ button:hover{
     align-items: flex-end;
 }
 .social ul{
-    display: flex;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap:10px;
 }
 .social li{
     list-style: none;
-    margin-inline-start: 10px;
     border-radius: 50%;
     border:2px solid #fff;
 }
