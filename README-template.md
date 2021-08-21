@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshots/screenshot-desktop.png)
-![](./screenshots/screenshot-mobile.png)
+![](./screenshot-desktop.png)
+![](./screenshot-mobile.png)
 
 ### Links
 
@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [Box Shadwo Generator](https://cssgenerator.org/box-shadow-css-generator.html) - I have created box shadow for the button using this tool.
+- [Box Shadow Generator](https://cssgenerator.org/box-shadow-css-generator.html) - I have created box shadow for the button using this tool.
 
 ## Author
 
