@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://ganbnuray.github.io/huddle-landing-page-with-single-introductory-section-master/)
-- Live Site URL: [Live Site](https://www.frontendmentor.io/solutions/responsive-landing-page-with-html5-and-css3-5Q7dyd7gZs)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-landing-page-with-html5-and-css3-5Q7dyd7gZs)
+- Live Site URL: [Live Site](https://ganbnuray.github.io/huddle-landing-page-with-single-introductory-section-master/)
 
 ### Built with
 
