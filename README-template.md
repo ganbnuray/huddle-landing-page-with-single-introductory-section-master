@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution]([https://your-solution-url.com](https://ganbnuray.github.io/huddle-landing-page-with-single-introductory-section-master/))
+- Live Site URL: [Live Site]([https://your-live-site-url.com](https://www.frontendmentor.io/solutions/responsive-landing-page-with-html5-and-css3-5Q7dyd7gZs))
 
 ### Built with
 
